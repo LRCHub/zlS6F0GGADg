@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星の下",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-07T00:09:25.513332Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星の下",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_星の下_Enfants.txt"
+    }
+  ]
+}
